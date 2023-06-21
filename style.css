@@ -1,7 +1,15 @@
 :root {
     --branco-principal: #ffffff;
-   --cinza-secundario: 
+   --cinza-secundario:   #C0C0C0;
+   --botao-azul:   #1679F7;
+   --cor-de-fundo: #00030c;
 }
+
+bodY {
+    background-color: var(--cor-de-fundo);
+
+}
+
 
 
 
